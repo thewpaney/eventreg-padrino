@@ -20,3 +20,7 @@ gem 'padrino', '0.14.3'
 
 # For displaying nice flash messages
 gem 'sinatra-flash'
+
+# Fancy CSS
+gem 'sass'
+gem 'coffee-script'
